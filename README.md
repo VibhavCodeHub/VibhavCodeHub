@@ -1,4 +1,14 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
 <h2 align="left">Hi 👋! My name is Vibhav and I'm a coder from UP (Agra).</h2>
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
 
 ###
 
