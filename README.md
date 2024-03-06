@@ -4,10 +4,7 @@
 
 <h2 align="left">My name is Vibhav and I'm a coder from UP (Agra).</h2>
 
-###
-<img align="right" height="150" src="https://github.com/VibhavCodeHub/images/blob/main/profile.gif"  />
-
-<h2 align="left">About me</h2>
+<h2 align="left">About me</h2> <img align="right" height="150" src="https://github.com/VibhavCodeHub/images/blob/main/profile.gif"  />
 
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning JavaScript & React <br>🎯 Goals: Job in gooogle/Microsoft <br>🎲 Fun fact: video games & chess</p>
 
