@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<h2 align="left">Hi 👋! My name is Vibhav and I'm a coder from UP (Agra).</h2>
+<h2 align="left">My name is Vibhav and I'm a coder from UP (Agra).</h2>
 
 <h2 align="left">About me</h2>
 
