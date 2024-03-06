@@ -8,6 +8,7 @@
 <h2 align="left">About me</h2>
 
 ###
+<img align="right" height="150" src="https://github.com/VibhavCodeHub/images/blob/main/profile.gif"  />
 
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning JavaScript & React <br>🎯 Goals: Job in gooogle/Microsoft <br>🎲 Fun fact: video games & chess</p>
 
@@ -39,11 +40,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://github.com/VibhavCodeHub/images/blob/main/profile.gif"  />
-
 
 
 ###
