@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
    <img width="12" />
  
 </div>
