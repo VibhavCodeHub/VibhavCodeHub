@@ -8,9 +8,10 @@
 
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning JavaScript & React <br>🎯 Goals: Job in gooogle/Microsoft <br>🎲 Fun fact: video games & chess</p>
 
+<br>
 ###
 <h2 align="left">I code with</h2>
-<br>
+
 ###
 
 <div align="left">
