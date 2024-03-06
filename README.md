@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Vibhav sanger and I'm a Coder, from Agra (UP).</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning React JS <br>🎯 Goals: to join google or Microsoft <br>🎲 Fun fact: I like to play chess in free time</p>
 
 ###
 
