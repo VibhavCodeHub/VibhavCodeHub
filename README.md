@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning JavaScript & React <br>🎯 Goals: CEO of google <br>🎲 Fun fact: video games & chess</p>
 
 ###
 <h2 align="left">I code with</h2>
